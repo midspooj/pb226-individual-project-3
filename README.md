@@ -32,6 +32,19 @@ To construct a data pipeline within the Databricks platform, the following steps
 
 A data lake serves as a centralized repository housing extensive data in its original raw form. Differing from a hierarchical data warehouse that organizes data in files or folders, a data lake adopts a flat architecture utilizing object storage. Object storage associates data with metadata tags and unique identifiers, simplifying data retrieval across regions and enhancing overall performance. Leveraging cost-effective object storage and open formats, data lakes empower numerous applications to harness and benefit from this wealth of data.
 
+![WhatsApp Image 2023-12-04 at 00 31 28_7b431898](https://github.com/midspooj/pb226-individual-project-3/assets/142264378/cd4a638e-275d-46b2-9bd6-763d82fb7001)
+
+![WhatsApp Image 2023-12-04 at 00 31 28_5450c815](https://github.com/midspooj/pb226-individual-project-3/assets/142264378/8bdf4dea-aef2-4bd9-8320-6edfbb4c6686)
+
+![WhatsApp Image 2023-12-04 at 00 31 28_0f185b7b](https://github.com/midspooj/pb226-individual-project-3/assets/142264378/d3157e95-85d0-4289-a1d6-a1dcd879f050)
+
+![WhatsApp Image 2023-12-04 at 00 31 28_0823d6c5](https://github.com/midspooj/pb226-individual-project-3/assets/142264378/d7ab52f0-1a48-4422-a785-a2278fde22fa)
+
+![WhatsApp Image 2023-12-04 at 00 31 28_069b3626](https://github.com/midspooj/pb226-individual-project-3/assets/142264378/9d7c1f67-77c1-46fa-ba70-49f8e8657de9)
+
+![WhatsApp Image 2023-12-04 at 00 31 29_866f4328](https://github.com/midspooj/pb226-individual-project-3/assets/142264378/4c6d60b2-c046-4d7d-b71f-5cc92c278b4c)
+
+
 ### What I learnt from this project 
 
 
